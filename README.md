@@ -1,2 +1,0 @@
-# hostingtest
-test
